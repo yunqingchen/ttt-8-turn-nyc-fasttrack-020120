@@ -21,10 +21,10 @@ def valid_move(board,index)
     if board[index] = " "
     else FALSE
   end
-  
-  
+
 #else ask for input again until valid
 
 def turn(board)
   puts "Please enter 1-9:"
+  input = gets.strip
 end
