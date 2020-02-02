@@ -16,8 +16,11 @@ def index_to_input(user_input)
 end 
   
 #if index is valid make the move
-def position_taken(index)
-  
+def valid_move(board,index)
+  if index >= 0 && index <=8
+    if board[index] = " "
+    else FALSE
+  end
   
   
 #else ask for input again until valid
