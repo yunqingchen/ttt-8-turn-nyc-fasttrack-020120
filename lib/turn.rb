@@ -12,7 +12,8 @@ end
 
 #convert input to index
 def index_to_input(user_input)
-  
+  user_input.to_i - 1 
+end 
   
 #if index is valid make the move
   
