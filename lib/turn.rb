@@ -13,7 +13,9 @@ end
 #convert input to index
 
 #if index is valid make the move
-
+def valid_move(board, index)
+  if gets.index.strip.to_i =  
+  
 #else ask for input again until valid
 
 def turn(board)
