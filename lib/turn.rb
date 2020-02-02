@@ -16,6 +16,9 @@ def index_to_input(user_input)
 end 
   
 #if index is valid make the move
+def position_taken(index)
+  
+  
   
 #else ask for input again until valid
 
