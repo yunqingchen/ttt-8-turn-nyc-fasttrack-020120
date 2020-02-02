@@ -31,4 +31,5 @@ def turn(board)
     move()
 end
 
-def move(board, index, )
+def move(board, index, current_player = "X")
+  
