@@ -11,7 +11,9 @@ end
 #gets input
 
 #convert input to index
-
+def index_to_input(user_input)
+  
+  
 #if index is valid make the move
   
 #else ask for input again until valid
